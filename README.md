@@ -1,6 +1,6 @@
 # 🐍 Atividades Básicas de Python
 
-Este repositório contém uma atividade acadêmica composta por **10 questões básicas de programação em Python**, desenvolvidas durante a graduação em Engenharia de Software.
+Este repositório contém uma atividade acadêmica composta por **10 questões básicas de programação em Python**, desenvolvidas durante a aula da matéria de Paradigma de Linguagem em Python da graduação em Engenharia de Software.
 
 O objetivo da atividade foi praticar conceitos fundamentais da linguagem e desenvolver a lógica de programação por meio da resolução de diferentes exercícios.
 
